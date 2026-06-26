@@ -1,11 +1,7 @@
-Source code for our wedding website 👫 (https://we.shyamjos.com/) , Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites
+Yashika Weds Jai is a fully responsive wedding website developed to provide guests with an engaging and memorable digital invitation experience.
 
-To set the countdown date see below section in `js/clock.js`
+The platform beautifully presents the couple's story, wedding events, and important celebration details through a modern and elegant interface. Special attention was given to creating a visually pleasing experience by incorporating attractive layouts, interactive sections, and smooth navigation.
 
-````
-  // Target future date/24 hour time/Timezone
-  let targetDate = moment.tz("2023-10-29 12:00", "Asia/Kolkata");
-````
+The website demonstrates the application of front-end development skills, responsive design techniques, and user-centric design principles to deliver a polished and meaningful web experience for both the couple and their guests.
 
-## Sreenshot
-![screenshot](https://repository-images.githubusercontent.com/698651028/d9cbed4d-10e2-44bd-bca8-e26a251ff182)
+🌐 Live Website: https://yashikawedsjai.netlify.app
